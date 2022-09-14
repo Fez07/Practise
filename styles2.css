@@ -1,0 +1,38 @@
+body {
+  color: #000000;
+  background: darkgrey;
+}
+
+.heading {
+  font-family: monospace;
+  margin-left: 0px;
+  margin-right: 0px;
+  display: block;
+  width: 100%;
+  text-align: center;
+  background: #999999
+}
+
+.navibar {
+  text-align: center;
+  background: #8a8888;
+  margin-top: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-bottom: 2px solid #000000;
+  border-top: 2px solid #000000;
+}
+.navibar a {
+  float: none;
+  color: #000000;
+  font-family: monospace;
+  padding: 14px 100px;
+  font-size: 20px;
+  text-decoration: none;
+  background: #7a7979;
+}
+
+.navibar a:hover {
+  background: #34282c;
+  color: lightgrey;
+}
